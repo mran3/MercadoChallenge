@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Nimble",
+        "repositoryURL": "https://github.com/Quick/Nimble",
+        "state": {
+          "branch": null,
+          "revision": "2b1809051b4a65c1d7f5233331daa24572cd7fca",
+          "version": "8.1.1"
+        }
+      },
+      {
+        "package": "Quick",
+        "repositoryURL": "https://github.com/Quick/Quick",
+        "state": {
+          "branch": null,
+          "revision": "09b3becb37cb2163919a3842a4c5fa6ec7130792",
+          "version": "2.2.1"
+        }
+      },
+      {
+        "package": "Shuffle",
+        "repositoryURL": "https://github.com/mac-gallagher/Shuffle",
+        "state": {
+          "branch": null,
+          "revision": "2be4f206cb71ccd855d8269a7557cc55b3e6c6eb",
+          "version": "0.3.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
