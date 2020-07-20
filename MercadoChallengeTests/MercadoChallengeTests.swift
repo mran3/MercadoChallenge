@@ -14,12 +14,10 @@ class MercadoChallengeTests: XCTestCase {
     override func setUpWithError() throws {
         mockProduct = Product(title:"Test Product", price: 5540)
         print("setup")
-        // Put setup code here. This method is called before the invocation of each test method in the class.
     }
     
     override func tearDownWithError() throws {
         print("teardown")
-        // Put teardown code here. This method is called after the invocation of each test method in the class.
     }
     
     // Example of testing a method of a View Controller

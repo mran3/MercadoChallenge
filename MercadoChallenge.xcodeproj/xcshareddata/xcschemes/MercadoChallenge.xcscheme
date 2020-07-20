@@ -38,6 +38,16 @@
                ReferencedContainer = "container:MercadoChallenge.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0C6A8C0E24C56B3300179915"
+               BuildableName = "MercadoChallengeUITests.xctest"
+               BlueprintName = "MercadoChallengeUITests"
+               ReferencedContainer = "container:MercadoChallenge.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction

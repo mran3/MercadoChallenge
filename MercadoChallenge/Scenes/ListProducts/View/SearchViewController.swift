@@ -14,6 +14,7 @@ class SearchViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        view.accessibilityIdentifier = "searchView"
         dismissKey()
         // Do any additional setup after loading the view.
     }

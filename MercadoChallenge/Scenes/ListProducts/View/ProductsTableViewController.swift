@@ -27,6 +27,8 @@ class ProductsTableViewController: UIViewController, UITableViewDataSource, UITa
         self.showIndicator()
         presenter.getProducts(searchTerm: searchTerm ?? "")
         tableView.reloadData()
+        view.accessibilityIdentifier = "productListView"
+
     }
     
     func hideIndicator(){
