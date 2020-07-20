@@ -1,4 +1,4 @@
-# Felinos
+# MercadoChallenge
 
 It's an small project about 😺 !
 
